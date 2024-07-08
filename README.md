@@ -6,7 +6,7 @@ I'm a Software Engineer, with a passion for innovation and product/process impro
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently a frontend developer at Snapnet solutions.
+- 💡 Fun fact: I'm currently a frontend developer .
 - 🌱 I'm experienced in HTML, CSS, JavaScript, Reactjs, Typescript, Git, Software Testing, Technical Writting.
 - 😊 I’m open to open source projects, collaborations, projects, hackathons, and opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer.
