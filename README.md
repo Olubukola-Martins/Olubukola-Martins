@@ -10,7 +10,7 @@ I'm a Software Engineer, with a passion for innovation and product/process impro
 - 🌱 I'm experienced in HTML, CSS, JavaScript, Reactjs, Typescript, Git, Software Testing, Technical Writting.
 - 😊 I’m open to open source projects, collaborations, projects, hackathons, and opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer.
-- 📫 Contact me by emailing 19bukola97@gmail.com and olubukola@snapnetsolutions.com and via phone lines on +2349062835135 or whatsapp +2349091659065 .
+- 📫 Contact me by emailing 19bukola97@gmail.com and olubukola@snapnetsolutions.com and via phone lines/whatsapp +2349091659065 .
 
 ---
 
